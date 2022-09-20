@@ -1,0 +1,53 @@
+#Talk-btn{
+background-color: black;
+}
+#masthead .btn-optional {
+    
+    border-radius: 30px!important;
+    padding: 9px 15px!important;
+    border: 1px solid #fff;
+    margin-right: 30px;
+    font-size: 14px!important;
+    height: 40px!important;
+    list-style: none;
+}
+.btn-optional-holder{
+    text-decoration: none;
+}
+#Navbar{
+    margin-left: 20%;
+}
+.nav-item{
+    margin: 25px;
+}
+img, svg {
+    vertical-align: middle;
+    margin-left: 45px;
+    height: 76px;
+    transform: rotate(5deg);
+}
+img:hover{
+    transform: rotate(360deg);
+    transition: 1.8s;
+}
+
+#S_btn{
+    border-radius: 60px;
+    margin-right: 20px;
+    font-weight: 500;
+    background-color: #0179fe
+    ;
+    color: #fff;
+    transition: 1s;
+    border-radius: 30px;
+    padding: 9px 15px;
+    border: 1px solid #fff;
+    margin-right: 30px;
+    font-size: 14px;
+    height: 40px;
+}
+#S_btn:hover{
+    color: black;
+    border-color: black;
+    background-color: white;
+}
